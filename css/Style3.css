@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&family=Dancing+Script&display=swap');
+p {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 20px;
+}
+img {
+    width: calc(1920px/2.5);
+    height: calc(1080px/2.5);
+    padding: 10px;
+}
+ul {
+    font-family: 'Advent Pro', sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+#presentation {
+    background-color: #FFFAE1;
+}
+
+element {
+    color: red;
+}

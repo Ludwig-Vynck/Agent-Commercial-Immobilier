@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2? famille= Sacramento & display=swap');
+
+body {
+    background-color: lightsalmon;
+}
+
+img {
+    height: 500px;
+    width: 1500px;
+}
+h1 {
+    font-style: italic;
+    font-family : 'Sacramento', cursive ;
+    font-size: 50px;
+}
+
+button {
+    border-radius: 5px;
+    
+    font-size: 1.8em;
+    background-color: lightcoral;
+    font-family: 'Sacramento', cursive;
+
+}
